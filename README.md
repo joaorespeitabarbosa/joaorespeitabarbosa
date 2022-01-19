@@ -2,8 +2,6 @@
 
 <img src="https://github.com/joaorespeitabarbosa/joaorespeitabarbosa/blob/main/matrix.gif?raw=true" width="500" />
 
-## Computer Science  
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorespeitabarbosa&count_private=true&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorespeitabarbosa&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

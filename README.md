@@ -1,6 +1,5 @@
 ### Hi there 👋, João Barbosa
 #### Computer Science
-![Computer Science](file:///home/barbosa/Pictures/matrix.jpg)
 
 
 Skills: Java / Python / C

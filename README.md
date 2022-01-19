@@ -1,5 +1,6 @@
 ### Hi there 👋, João Barbosa
 #### Computer Science
+![Computer Science](https://twitter.com/Barbosa_Dji/header_photo)
 
 
 Skills: Java / Python / C

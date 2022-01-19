@@ -1,7 +1,6 @@
-### Hi there 👋, João Barbosa
-#### Computer Science
 ![Computer Science](https://pbs.twimg.com/profile_banners/912062899945959424/1642552400/600x200)
-
+### Hi there 👋, I'm João Barbosa
+#### Computer Science
 
 Skills: Java / Python / C
 

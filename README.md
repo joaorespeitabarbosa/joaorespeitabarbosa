@@ -1,3 +1,4 @@
+![I am GitHub Readme Generator's creator](https://static.wixstatic.com/media/2d0812_ebf28c23559641fa8668ef4998bbf99e~mv2.gif)
 # Hi there 👋, I'm João Barbosa
 ## Computer Science
 

@@ -1,3 +1,4 @@
+<img src="https://github.com/joaorespeitabarbosa/joaorespeitabarbosa/blob/main/matrix.gif?raw=true" width="256" />
 # Hi there 👋, I'm João Barbosa 
 ## Computer Science  
 Skills: Java / Python / C  - 🔭 I’m currently working on this page.   

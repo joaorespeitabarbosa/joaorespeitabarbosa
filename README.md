@@ -1,5 +1,3 @@
-# Hi there 👋, I'm João Barbosa 
-
 <img src="https://github.com/joaorespeitabarbosa/joaorespeitabarbosa/blob/main/matrix.gif?raw=true" width="495" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorespeitabarbosa&count_private=true&show_icons=true&theme=merko)

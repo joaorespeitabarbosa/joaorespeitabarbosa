@@ -16,6 +16,7 @@ AI | Game Development | Human–Computer Interaction | LLMs | Software Engineeri
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-respeita-barbosa-67014823a/)
+[![Website](https://img.shields.io/badge/build-Website-green?style=for-the-badge)](https://joaorespeitabarbosa.github.io/)
 
 ---
 
